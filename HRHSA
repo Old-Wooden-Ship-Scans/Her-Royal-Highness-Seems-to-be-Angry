@@ -1,95 +1,95 @@
 {
-  "title": "<Her Royal Highness Seems to be Angry>",
-  "description": "<Test>",
-  "artist": "<Yotsuba Neko>",
-  "author": "<Yatsuhashi Kou>",
-  "cover": "<https://i.imgur.com/uQVjZne.jpg>",
+  "title": "Her Royal Highness Seems to be Angry",
+  "description": "Test",
+  "artist": "Yotsuba Neko",
+  "author": "Yatsuhashi Kou",
+  "cover": "https://i.imgur.com/uQVjZne.jpg",
   "chapters": {
-    "<6>": {
-      "title": "<Chapter 6>",
-      "volume": "<0>",
+    "6": {
+      "title": "Chapter 6",
+      "volume": "0",
       "groups": {
-        "<Ritalin Room Scans>": "/proxy/api/imgur/chapter/<hqRGpYm>/"
+        "Ritalin Room Scans": "/proxy/api/imgur/chapter/hqRGpYm/"
       },
       "last_updated": "1616368746"
     },
-	"<7>": {
-      "title": "<Chapter 7>",
-      "volume": "<0>",
+	"7": {
+      "title": "Chapter 7",
+      "volume": "0",
       "groups": {
-        "<Ritalin Room Scans>": "/proxy/api/imgur/chapter/<xc93nN0>/"
+        "Ritalin Room Scans": "/proxy/api/imgur/chapter/xc93nN0/"
       },
       "last_updated": "1616368746"
     },
-	"<8>": {
-      "title": "<Chapter 8>",
-      "volume": "<0>",
+	"8": {
+      "title": "Chapter 8",
+      "volume": "0",
       "groups": {
-        "<Ritalin Room Scans>": "/proxy/api/imgur/chapter/<0SQOW33>/"
+        "Ritalin Room Scans": "/proxy/api/imgur/chapter/0SQOW33/"
       },
       "last_updated": "1616368746"
     },
-	"<9>": {
-      "title": "<Chapter 9>",
-      "volume": "<0>",
+	"9": {
+      "title": "Chapter 9",
+      "volume": "0",
       "groups": {
-        "<Ritalin Room Scans>": "/proxy/api/imgur/chapter/<cryQj6f>/"
+        "Ritalin Room Scans": "/proxy/api/imgur/chapter/cryQj6f/"
       },
       "last_updated": "1616368746"
     },
-	"<10>": {
-      "title": "<Chapter 10>",
-      "volume": "<0>",
+	"10": {
+      "title": "Chapter 10",
+      "volume": "0",
       "groups": {
-        "<Ritalin Room Scans>": "/proxy/api/imgur/chapter/<WklA1G8>/"
+        "Ritalin Room Scans": "/proxy/api/imgur/chapter/WklA1G8/"
       },
       "last_updated": "1616368746"
     },
-	"<11>": {
-      "title": "<Chapter 11>",
-      "volume": "<0>",
+	"11": {
+      "title": "Chapter 11",
+      "volume": "0",
       "groups": {
-        "<Ritalin Room Scans>": "/proxy/api/imgur/chapter/<NPYb0gd>/"
+        "Ritalin Room Scans": "/proxy/api/imgur/chapter/NPYb0gd/"
       },
       "last_updated": "1616368746"
     },
-	"<12>": {
-      "title": "<Chapter 12>",
-      "volume": "<0>",
+	"12": {
+      "title": "Chapter 12",
+      "volume": "0",
       "groups": {
-        "<Ritalin Room Scans>": "/proxy/api/imgur/chapter/<Cz4qbni>/"
+        "Ritalin Room Scans": "/proxy/api/imgur/chapter/Cz4qbni/"
       },
       "last_updated": "1616368746"
     },
-	"<13>": {
-      "title": "<Chapter 13>",
-      "volume": "<0>",
+	"13": {
+      "title": "Chapter 13",
+      "volume": "0",
       "groups": {
-        "<Ritalin Room Scans>": "/proxy/api/imgur/chapter/<MGAow4i>/"
+        "Ritalin Room Scans": "/proxy/api/imgur/chapter/MGAow4i/"
       },
       "last_updated": "1616368746"
     },
-	"<14>": {
-      "title": "<Chapter 14>",
-      "volume": "<0>",
+	"14": {
+      "title": "Chapter 14",
+      "volume": "0",
       "groups": {
-        "<Ritalin Room Scans>": "/proxy/api/imgur/chapter/<PIEQ9XT>/"
+        "Ritalin Room Scans": "/proxy/api/imgur/chapter/PIEQ9XT/"
       },
       "last_updated": "1616368746"
     },
-	"<15>": {
-      "title": "<Chapter 15>",
-      "volume": "<0>",
+	"15": {
+      "title": "Chapter 15",
+      "volume": "0",
       "groups": {
-        "<Ritalin Room Scans>": "/proxy/api/imgur/chapter/<21PYVSS>/"
+        "Ritalin Room Scans": "/proxy/api/imgur/chapter/21PYVSS/"
       },
       "last_updated": "1616368746"
     },
-	"<16>": {
-      "title": "<Chapter 16>",
-      "volume": "<0>",
+	"16": {
+      "title": "Chapter 16",
+      "volume": "0",
       "groups": {
-        "<Ritalin Room Scans>": "/proxy/api/imgur/chapter/<tJ6T6Kl>/"
+        "Ritalin Room Scans": "/proxy/api/imgur/chapter/tJ6T6Kl/"
       },
       "last_updated": "1616368746"
     }
